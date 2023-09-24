@@ -1,0 +1,72 @@
+[
+    {
+        "title": "Who is making the Web standards?",
+        "answers": [
+            "Microsoft",
+            "Google",
+            "Mozilla",
+            "The World Wide Web Consortium"
+        ],
+        "answerRight": "The World Wide Web Consortium"
+    },
+    {
+        "title": "Choose the correct HTML element for the largest heading:",
+        "answers": [
+            "<h6>",
+            "<head>",
+            "h1",
+            "heading"
+        ],
+        "answerRight": "h1"
+    },
+    {
+        "title": "Which HTML attribute is used to define inline styles?",
+        "answers": [
+            "class",
+            "styles",
+            "font",
+            "style"
+        ],
+        "answerRight": "style"
+    },
+    {
+        "title": "Which is the correct CSS syntax?",
+        "answers": [
+            "{body;color:black;}",
+            "body {color: black;}",
+            "{body:color=black;}",
+            "body:color=black;"
+        ],
+        "answerRight": "body {color: black;}"
+    },
+    {
+        "title": "Why we use <br> element",
+        "answers": [
+            "To make text bold",
+            "To make text Italic",
+            "To add breakline",
+            "To create horizintal line"
+        ],
+        "answerRight": "To add breakline"
+    },
+    {
+        "title": "Is <img> element has attributs href",
+        "answers": [
+            "Yes",
+            "No its for anchor tag <a>",
+            "All elements have this attributs",
+            "Answer 1 and 3 are right"
+        ],
+        "answerRight": "No its for anchor tag <a>"
+    },
+    {
+        "title": "How can we make element text bold",
+        "answers": [
+            "Putting it inside <b> tag",
+            "Putting it inside <strong> tag",
+            "Customizing it with font-weight property in CSS",
+            "All answers are right"
+        ],
+        "answerRight": "All answers are right"
+    }
+]
