@@ -3,7 +3,6 @@
 import QuizArea from "@/components/QuizArea";
 import Results from "@/components/Results";
 import data from '@/data/data.json'
-
 import { useState } from "react";
 
 

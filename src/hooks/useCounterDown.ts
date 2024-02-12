@@ -10,7 +10,6 @@ export const useCountDown = ( time:number,callback: ()=> void, ) => {
       }
         const countDownInterval = setInterval(() => {
           setSecondLeft((time)=> time - 1)
-          console.log('bruh')
       }, 1000);
 
       

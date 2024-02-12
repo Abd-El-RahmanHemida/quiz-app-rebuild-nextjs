@@ -20,7 +20,6 @@ const Question:FC<QuizAreaProps> = ({data,score,setScore,showResults,setShowResu
     const [numberOfQuestion, setnumberOfQuestion] = useState(0)
     const {title, answers, answerRight} = data[numberOfQuestion]
     const [selectedAnswer, setSelectedAnswer] = useState(answers[0]);
-    const [isRestart, setIsRestart] = useState(false)
     
     
     const handleChangeAnswer = (value:string)=> {
